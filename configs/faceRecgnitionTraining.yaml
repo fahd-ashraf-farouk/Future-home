@@ -1,0 +1,3 @@
+#please add folders of people u want to add inside data and in each folder add the imgs of this person
+HOME_OWNERS_DATA: "data/faces" 
+FEATURES_SAVED_PATH: "data/features.npy"

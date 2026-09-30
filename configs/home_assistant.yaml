@@ -1,0 +1,3 @@
+TEMPERATURE: 0.5 #change tepmerature to change the randomness of the model
+MAX_TOKENS: 500 #change the max tokens to change the max length of the answer
+MODEL_NAME: "llama-3.3-70b-versatile" #change the model name to change the model 
